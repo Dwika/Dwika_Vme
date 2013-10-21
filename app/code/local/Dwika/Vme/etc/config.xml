@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Dwika_Vme>
+            <version>0.0.1</version>
+        </Dwika_Vme>
+    </modules>
+    <global>
+        <blocks>
+            <dwika_vme>
+                <class>Dwika_Vme_Block</class>
+            </dwika_vme>
+        </blocks>
+        <helpers>
+            <dwika_vme>
+                <class>Dwika_Vme_Helper</class>
+            </dwika_vme>
+        </helpers>
+        <models>
+            <dwika_vme>
+                <class>Dwika_Vme_Model</class>
+            </dwika_vme>
+        </models>
+    </global>
+</config>
